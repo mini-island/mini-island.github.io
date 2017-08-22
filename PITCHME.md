@@ -33,9 +33,7 @@
 
 ## 我們都是一座小島
 
-+++
-
-## (小島圖)
++++?image=https://mini-island.github.io/asssets/result_regeneration.svg
 
 ---
 
