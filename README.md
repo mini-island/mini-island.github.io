@@ -4,5 +4,7 @@
 ### 課程目標
 * 你修過什麼課？
 
+<iframe width='480' height='360' src='https://gitpitch.com/mini-island/mini-island.github.io/master?grs=github&t=white' frameborder='0' allowfullscreen></iframe>
+
 ### 課程團隊
 * 數位內容創新與應用 (亞東技術學院資訊管理學系)
