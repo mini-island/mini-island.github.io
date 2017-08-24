@@ -9,8 +9,6 @@
 
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/mini-island/mini-island.github.io/master?grs=github&t=white)
 
-<iframe width='480' height='360' src='https://gitpitch.com/mini-island/mini-island.github.io/master?grs=github&t=white' frameborder='0' allowfullscreen></iframe>
-
 ## 對同學的好處
 1. 累積履歷，學習不會白費。
 2. 請互相參考，請教學相長。
