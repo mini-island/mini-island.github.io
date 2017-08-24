@@ -12,10 +12,10 @@
 <iframe width='480' height='360' src='https://gitpitch.com/mini-island/mini-island.github.io/master?grs=github&t=white' frameborder='0' allowfullscreen></iframe>
 
 ## 對同學的好處
-1. 鼓勵時時學習，累積不會白費。
-2. 鼓勵及早發佈，成為意見領袖。
-3. 鼓勵相互參考，共同創造新意。
-4. 鼓勵跨課協作，突顯個人特質。
+1. 累積履歷，學習不會白費。
+2. 請互相參考，請教學相長。
+3. 跨課協作才是強者。
+4. 學會放下。
 
 ## 辦公室資源
 * 認識開源法律授權問題
