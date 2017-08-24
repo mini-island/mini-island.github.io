@@ -11,8 +11,19 @@
 
 <iframe width='480' height='360' src='https://gitpitch.com/mini-island/mini-island.github.io/master?grs=github&t=white' frameborder='0' allowfullscreen></iframe>
 
-## 課程團隊
+## 對同學的好處
+
+## 對老師的好處
+
+## 辦公室資源
+* 作業專案管理: GitHub 導覽
+* 作業網站: GitHub Pages 導覽
+* 書籍式作業: GitBook 導覽
+* 作業簡報: GitPitch 導覽
+
+## 預定參與課程
 * 數位內容創新與應用 (亞東技術學院資訊管理學系，蔡文隆助理教授)
+* 計算機概論 (國立臺灣科技大學資訊工程學系，鄧惟中副教授)
 * 更多............
 
 ## 為什麼是「小島」？
