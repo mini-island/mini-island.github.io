@@ -1,7 +1,7 @@
 ## 小島辦公室
 這裡是小島辦公室，作為[開源協作課程]({{ site.github.owner_url }})事務運作的區域。公告資訊請參考本網頁，討論請到 [Issues]({{ site.github.repository_url }}/issues) 發問。
 
-## 開源協作課程：你之前修了什麼課？
+## 開源協作課程：我的履歷表
 開源協作課程並不是單獨的課程，我們和大學開設的課程合作，協助同學發佈學習過程及協作成果。
 * 以 GitHub 工具整理及發表成果。
 * 幫助同學在修課同時累積個人履歷。
@@ -12,10 +12,13 @@
 <iframe width='480' height='360' src='https://gitpitch.com/mini-island/mini-island.github.io/master?grs=github&t=white' frameborder='0' allowfullscreen></iframe>
 
 ## 對同學的好處
-
-## 對老師的好處
+1. 鼓勵時時學習，累積不會白費。
+2. 鼓勵及早發佈，成為意見領袖。
+3. 鼓勵相互參考，共同創造新意。
+4. 鼓勵跨課協作，突顯個人特質。
 
 ## 辦公室資源
+* 認識開源法律問題
 * 作業專案管理: GitHub 導覽
 * 作業網站: GitHub Pages 導覽
 * 書籍式作業: GitBook 導覽
