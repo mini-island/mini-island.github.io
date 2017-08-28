@@ -31,3 +31,7 @@
 
 ## 為什麼是「小島」？
 每個人都很渺小，就像台灣之於全世界只是一個小島一樣。與其好高騖遠望著遙不可及的夢想，不如專注當下，讓自己的小島多彩多姿，也許有一天，夢想就不再遙不可及。
+
+## 參考資訊
+1. [GitHub Guides](https://guides.github.com/)
+2. [Open Source Guides](https://opensource.guide/)
