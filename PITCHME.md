@@ -21,7 +21,7 @@
 
 * 請同學到[GitHub.com](https://github.com/)註冊個人帳號
 
-+++
+---
 
 ## 課程工作
 
