@@ -19,7 +19,7 @@
 
 ## 預備工作
 
-* 請同學到[GitHub.com](https://github.com/)註冊個人帳號
+* 請同學到[GitHub.com](https://github.com/)註冊個人帳號。
 
 ---
 
@@ -44,8 +44,16 @@
 1. 使用[Gitter](https://gitter.im/mini-island/Lobby)來辦公室聊聊吧！
    * 每個專案或課程都可以申請開設聊天室。
 2. 到[Issues](https://github.com/mini-island/mini-island.github.io/issues)提出疑問。
-    * 每個專案也都有Issues可以使用唷！
+    * 每個專案也都有Issues可以使用唷！
+3. 課程技術支援都以線上服務方式提供。
 
++++
+
+### 基礎服務
+1. GitHub
+2. GitHub Pages
+3. Gitter
+4. GitBook
 
 ---
 
