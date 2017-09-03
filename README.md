@@ -8,6 +8,7 @@
 * 鼓勵跨課程間的協作。
 
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/mini-island/mini-island.github.io/master?grs=github&t=white)
+[![Gitter](https://img.shields.io/gitter/room/mini-island/Lobby.svg)](https://gitter.im/mini-island/Lobby)
 
 ## 課程流程 (隨合作課程調整)
 1. 學期初：介紹本課程目的，向同學說明適合該課程的開源方式。
