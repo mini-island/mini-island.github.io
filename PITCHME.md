@@ -41,6 +41,10 @@
 
 ### 技術支援
 
+1. 使用[Gitter](https://gitter.im/mini-island/Lobby)來辦公室聊聊吧！
+   * 每個專案或課程都可以申請開設聊天室。
+2. 到[Issues](https://github.com/mini-island/mini-island.github.io/issues)提出疑問。
+    * 每個專案也都有Issues可以使用唷！
 
 
 ---
