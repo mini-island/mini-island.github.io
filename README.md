@@ -23,8 +23,7 @@
 4. 跨課協作更是強者。
 
 ## 辦公室資源
-* [認識開源授權問題 (製作中)](https://gitpitch.com/mini-island/mini-island.github.io?p=license)
-* 作業專案管理: GitHub 導覽 (製作中)
+* [開源小島之書](https://www.gitbook.com/book/mini-island/open-island/details)
 
 ## 參與課程
 * 數位內容創新與應用 （亞東技術學院資訊管理學系，蔡文隆助理教授)
