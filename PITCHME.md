@@ -69,6 +69,11 @@
 ### 只要做自己就好
 ### 讓市場自然運作
 
++++
+
+### Linus's Law:
+### "Given enough eyeballs, all bugs are shallow"
+
 ---
 
 ## 寫自己的履歷表
