@@ -23,7 +23,7 @@
 4. 跨課協作更是強者。
 
 ## 辦公室資源
-* [開源小島之書](https://www.gitbook.com/book/twoss/open-island/details)
+* [開源小島之書](http://twoss.gitbooks.io/open-island)
 
 ## 參與課程
 * 數位內容創新與應用 （亞東技術學院資訊管理學系，蔡文隆助理教授)
