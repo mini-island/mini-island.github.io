@@ -40,4 +40,4 @@
 ---
 ![](https://goo.gl/WXDPFq)
 [![TWOSS](https://img.shields.io/badge/臺灣開源軟體協作工坊-TWOSS-orange.svg)](https://twoss-io.github.io/)
-[![亞東資管](https://img.shields.io/badge/資訊管理學系-亞東技術學院-blug.svg)](https://github.com/oit-mi)
+[![亞東資管](https://img.shields.io/badge/資訊管理學系-亞東技術學院-blue.svg)](https://github.com/oit-mi)
