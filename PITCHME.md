@@ -127,7 +127,7 @@
 +++
 
 ### Choose an open source license
-### https://choosealicense.com/
+- https://choosealicense.com/
 
 ---
 
