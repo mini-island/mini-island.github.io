@@ -80,7 +80,7 @@
 +++
 
 ### Linus's Law:
-### "Given enough eyeballs, all bugs are shallow"
+> "Given enough eyeballs, all bugs are shallow"
 
 +++
 
