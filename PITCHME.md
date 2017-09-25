@@ -50,16 +50,12 @@
 +++
 
 ### 基礎服務
-1. GitHub
-   - [Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
-2. GitHub Pages
-   - [Websites for you and your projects.](https://pages.github.com/)
-3. Gitter
-   - [Where communities thrive](https://gitter.im)
-4. GitBook
-   - [Gitbook出版教學](https://creatgood.com/gitbook-tutorial-1/)
-5. Markdown
-   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+1. GitHub - [Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
+2. GitPitch - [Get the World Out!](https://gitpitch.com/gitpitch/gitpitch/master)
+3. GitHub Pages - [Websites for you and your projects.](https://pages.github.com/)
+4. Gitter - [Where communities thrive](https://gitter.im)
+5. GitBook - [Gitbook出版教學](https://creatgood.com/gitbook-tutorial-1/)
+6. Markdown - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ---
 
@@ -123,6 +119,24 @@
 ---
 
 ## 開源授權說明
+
++++
+
+### 六大特性
+- 開放程式源碼
+- 不限制授權對象與使用地域
+- 不收取授權金
+- 授權不可撤回
+- 不附隨擔保
+- 釋放四大自由予後手
+
++++
+
+<canvas data-chart="radar">
+開源程度, 必須開源, 自由開源
+MIT, 0, 1
+GPL, 1, 0
+</canvas>
 
 +++
 
