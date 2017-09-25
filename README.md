@@ -1,7 +1,7 @@
 ## 小島辦公室
 這裡是小島辦公室，作為[開源協作課程]({{ site.github.owner_url }})事務運作的區域。公告資訊請參考本網頁，討論請到 [Issues]({{ site.github.repository_url }}/issues) 發問。
 
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/mini-island/mini-island.github.io/master?grs=github&t=white)
+[![GitPitch](https://img.shields.io/badge/課程簡介-slideshow-brightgreen.svg)](https://gitpitch.com/mini-island/mini-island.github.io/master?grs=github&t=white)
 [![Gitter](https://img.shields.io/gitter/room/mini-island/Lobby.svg)](https://gitter.im/mini-island/Lobby)
 [![GitHub issues](https://img.shields.io/github/issues/mini-island/mini-island.github.io.svg)](https://github.com/mini-island/mini-island.github.io/issues)
 
