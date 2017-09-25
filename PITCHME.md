@@ -51,9 +51,15 @@
 
 ### 基礎服務
 1. GitHub
+   - [Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
 2. GitHub Pages
+   - [Websites for you and your projects.](https://pages.github.com/)
 3. Gitter
+   - [Where communities thrive](https://gitter.im)
 4. GitBook
+   - [Gitbook出版教學](https://creatgood.com/gitbook-tutorial-1/)
+5. Markdown
+   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ---
 
