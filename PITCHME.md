@@ -85,6 +85,10 @@
 +++
 
 ### Free as in speech, not as in beer
+1. Run the software however you would like. 
+2. Seeing how the software actually works.
+3. Redistribute the software however you’d like.
+4. Right to improve the program.
 
 +++
 
