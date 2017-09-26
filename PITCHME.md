@@ -149,6 +149,7 @@
 ## 其他案例
 - [Adobe Fonts](https://github.com/adobe-fonts)
 - [疯狂的程序员](https://www.gitbook.com/read/book/wizardforcel/feng-kuang-de-cheng-xu-yuan)
+- [open-iconic](https://github.com/iconic/open-iconic)
 
 ---
 
