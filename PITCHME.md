@@ -106,7 +106,7 @@
 
 +++
 
-### 最真實的履歷表
+### 自然的履歷表
 1. 公眾信任
 2. 展示工作過程
 
@@ -132,20 +132,13 @@
 
 +++
 
-<canvas data-chart="radar">
-開源程度, 必須開源, 自由開源
-MIT, 0, 1
-GPL, 1, 0
-</canvas>
-
-+++
-
-### Choose an open source license
+### 常用授權方式
+- MIT, Apache 2.0, GPL 3.0
 - https://choosealicense.com/
 
 ---
 
-## 案例說明
+## 案例說明 (操作)
 
 ---
 
