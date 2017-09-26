@@ -146,7 +146,8 @@
 
 ---
 
-## 案例說明 (操作)
+## 案例說明
+- [Adobe Fonts](https://github.com/adobe-fonts)
 
 ---
 
