@@ -4,6 +4,7 @@
 [![GitPitch](https://img.shields.io/badge/課程簡介-slideshow-brightgreen.svg)](https://gitpitch.com/mini-island/mini-island.github.io/master?grs=github&t=white)
 [![Gitter](https://img.shields.io/gitter/room/mini-island/Lobby.svg)](https://gitter.im/mini-island/Lobby)
 [![GitHub issues](https://img.shields.io/github/issues/mini-island/mini-island.github.io.svg)](https://github.com/mini-island/mini-island.github.io/issues)
+[![twitter](https://img.shields.io/badge/%23開源-twitter-blue.svg)](https://twitter.com/hashtag/%E9%96%8B%E6%BA%90?f=tweets&vertical=default&src=hash)
 
 ## 開源協作課程：我的履歷表
 開源協作課程並不是單獨的課程，我們和大學開設的課程合作，協助同學發佈學習過程及協作成果。
