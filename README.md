@@ -23,10 +23,11 @@
 3. 學會放下。
 4. 跨課協作更是強者。
 
-## 辦公室資源
+## 相關資源
 - [開源小島之書](http://twoss.gitbooks.io/open-island) (臺灣開放軟體協作工坊)
 - [開源軟體法制授權與供應鏈協作](/assets/attachments/20170721-Legal%20Adviser%20at%20Open%20Culture%20Foundation.pdf) (財團法人開放文化基金會 林誠夏 法制顧問)
 - [TortoiseGit](https://tortoisegit.org/): The Power of Git – in a Windows Shell
+- Markdown: [快速上手 Markdown](http://commonmark.org/help/)
 
 ## 參與課程
 * 數位內容創新與應用 （亞東技術學院資訊管理學系，蔡文隆助理教授)
