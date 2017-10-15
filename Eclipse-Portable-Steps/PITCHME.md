@@ -18,6 +18,8 @@
 
 +++?image=assets/Eclipse-Portable-Steps/step-01.png&size=80% auto
 
+##### Step-01
+
 +++?image=assets/Eclipse-Portable-Steps/step-02.png&size=80% auto
 
 +++?image=assets/Eclipse-Portable-Steps/step-03.png&size=80% auto
