@@ -15,6 +15,7 @@
 ---
 
 ### 開始操作↓
+#### (共 15 步)
 
 +++?image=assets/Eclipse-Portable-Steps/step-01.png&size=80% auto
 
@@ -73,6 +74,8 @@
 ##### Step-14
 
 +++?image=assets/Eclipse-Portable-Steps/step-15.png&size=80% auto
+
+##### Step-15
 
 +++
 
