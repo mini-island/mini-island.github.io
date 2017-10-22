@@ -27,7 +27,8 @@
 
 ## 相關資源
 - [開源小島之書](http://twoss.gitbooks.io/open-island) (臺灣開放軟體協作工坊)
-- [開源軟體法制授權與供應鏈協作](/assets/attachments/20170721-Legal%20Adviser%20at%20Open%20Culture%20Foundation.pdf) (財團法人開放文化基金會 林誠夏 法制顧問)
+- [開源軟體法制授權與供應鏈協作](/assets/attachments/20170721-Legal%20Adviser%20at%20Open%20Culture%20Foundation.pdf) (財團法人開放文化基金會 林誠夏 法制顧問
+- [Open Source - 沒有人是局外人](https://gitpitch.com/ycku/pitches?p=opensource)
 - [TortoiseGit](https://tortoisegit.org/): The Power of Git – in a Windows Shell
 - Markdown: [快速上手 Markdown](http://commonmark.org/help/)
 
